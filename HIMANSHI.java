@@ -10,7 +10,7 @@ public class HIMANSHI
     int qty;
     static int rrt;
     public static void main (String[] args) {
-        int age=18;
+        int age=19;
         System.out.println(age);
         System.out.println(HIMANSHI.rrt);
         
