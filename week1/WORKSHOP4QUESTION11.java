@@ -1,4 +1,4 @@
- 
+package week1;
 import java.util.Scanner;
 /**
  * Write a description of class WORKSHOP11 here.
